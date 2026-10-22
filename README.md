@@ -90,14 +90,6 @@ Algumas coisas que eu acredito:
 <img src="https://img.shields.io/badge/Git-2A0E17?style=flat-square&logo=git&logoColor=F2B8C6" alt="Git" />
 <img src="https://img.shields.io/badge/Vercel-2A0E17?style=flat-square&logo=vercel&logoColor=F2B8C6" alt="Vercel" />
 
-### 🎮 conquistas desbloqueadas
-
-- [x] 5 anos de UX/UI ✨
-- [x] cofundou um estúdio de design (Solaris ☀️)
-- [x] fez o próprio portfólio no código e publicou na Vercel
-- [x] criou um terminal fofinho só pra esse README
-- [ ] próximo nível: carregando… `▓▓▓▓▓▓▓░░░`
-
 <img src="assets/divisor.gif" width="100%" alt="" />
 
 ### ✦ casos selecionados
