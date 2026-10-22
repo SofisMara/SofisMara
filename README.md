@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBCFE8,50:F9A8D4,100:C4B5FD&height=190&section=header&text=Sofia%20Mara%20%E2%99%A1&fontColor=5B21B6&fontSize=52&fontAlignY=36&desc=Product%20Designer%20%E2%80%A2%20UX%2FUI&descAlignY=58&descSize=20" alt="Sofia Mara — Product Designer UX/UI" width="100%" />
+  <img src="assets/banner.png" alt="Sofia Mara — Product Designer UX/UI" width="100%" />
 </p>
 
 <p align="center">
