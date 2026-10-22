@@ -22,10 +22,10 @@
 
 Sou **Product Designer (UX/UI)** e trabalho com design de produto desde 2021. Transformo problemas complexos em experiências digitais simples, intuitivas e funcionais — conectando necessidades das pessoas, objetivos de negócio e tecnologia.
 
-- ✦ Hoje sou **Product Designer na UX Group**, evoluindo o app mobile de **iGaming** (perfil, gamificação, clubes de fidelidade e desafios)
-- ✦ Antes, passei pela **Serasa Experian**, no produto **Premium**
-- ✦ Sou **cofundadora do estúdio Solaris**, com projetos de marketplace, fintech e e-commerce
-- ✦ São Paulo, Brasil
+✦ Hoje sou **Product Designer na UX Group**, evoluindo o app mobile de **iGaming** (perfil, gamificação, clubes de fidelidade e desafios)<br/>
+✦ Antes, passei pela **Serasa Experian**, no produto **Premium**<br/>
+✦ Sou **cofundadora do estúdio Solaris**, com projetos de marketplace, fintech e e-commerce<br/>
+✦ São Paulo, Brasil
 
 <br clear="right" />
 
